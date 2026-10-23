@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Raditya Arva (VaaaStore)
+# 👋 Hi, I'm Raditya Arva </VaaaStore>
 ### 🚀 Automation Developer & Script Creator
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Growlauncher+Script+Developer;PowerKuy+Community+Contributor;Node.js+%26+Lua+Enthusiast;Full-Stack+Web+Developer)](https://git.io/typing-svg)
