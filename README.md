@@ -1,7 +1,20 @@
 <div align="center">
 
-  <!-- Header Banner Cyberpunk -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,10,30,50&height=220&section=header&text=RADITYA%20ARVA%20PUTRA&fontSize=38&fontAlignY=38&animation=twinkling&desc=VaaaStore%20•%20Lua%20Script%20%26%20Automation%20Developer&descFontSize=18&descAlignY=62" width="100%" />
+  <!-- Header Banner Kustom (Native SVG - 100% Load) -->
+  <svg viewBox="0 0 1000 180" width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#1e1b4b;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0284c7;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="180" rx="15" fill="url(#grad)" />
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="38" fill="#00F0FF" letter-spacing="3">RADITYA ARVA PUTRA</text>
+    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="18" fill="#e0e7ff" letter-spacing="1.5">VaaaStore • Lua Script & Automation Developer</text>
+  </svg>
+
+  <br><br>
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
