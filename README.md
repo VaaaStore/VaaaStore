@@ -1,63 +1,98 @@
 <div align="center">
 
-# 👋 Hi, I'm Raditya Arva </VaaaStore>
-### 🚀 Automation Developer & Script Creator
+  <!-- Header Banner Cyberpunk -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,10,30,50&height=220&section=header&text=RADITYA%20ARVA%20PUTRA&fontSize=38&fontAlignY=38&animation=twinkling&desc=VaaaStore%20•%20Lua%20Script%20%26%20Automation%20Developer&descFontSize=18&descAlignY=62" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Growlauncher+Script+Developer;PowerKuy+Community+Contributor;Node.js+%26+Lua+Enthusiast;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Growlauncher+Lua+Script+Developer;%F0%9F%93%92+Following+IniEyyy%2FGrowlauncher-Documentation;%F0%9F%A4%96+PowerKuy+Community+Automation+Contributor;%F0%9F%92%A1+Full-Stack+Web+%26+WhatsApp+Bot+Developer" alt="Typing SVG" />
+  </a>
 
----
+  <br><br>
 
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  <!-- Badges / Tech Stack -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
 
 </div>
 
 ---
 
-## 📌 About Me
+## 👨‍💻 About Me
 
-- 🎮 **Focus:** Developing high-performance Lua automation scripts & helper tools for **Growlauncher** (PowerKuy Community).
-- 💻 **Tech Stack:** Lua, JavaScript/TypeScript, Node.js, Next.js, Python.
-- ⚙️ **Projects:** Specialized in auto-farming/PNB tools, surgery helpers, and web automation platforms.
-- 🌐 **Services:** Web Development, WhatsApp Automation Bots, and Digital Services.
+Hi there! I'm **Raditya Arva** (known online as **VaaaStore**). I am a developer passionate about **game automation, Lua scripting, and full-stack web solutions**. 
+
+- 🎮 **Main Focus:** Developing custom Lua scripts and helper utilities for **Growlauncher**, tailored specifically for the **PowerKuy Community**.
+- 📖 **Documentation & Standard:** Actively following and implementing APIs from the official [Growlauncher Documentation](https://github.com/IniEyyy/Growlauncher-Documentation) by **IniEyyy**.
+- 🛠️ **Other Ecosystems:** Building automated WhatsApp trading bots and full-stack web platforms for digital services.
 
 ---
 
-## 🛠️ Main Projects & Focus
+## 🎮 Growlauncher & Lua Development Roadmap
 
-| Project | Description | Tech Stack | Status |
+Deeply involved in writing clean, efficient, and bypass-ready Lua automation scripts for Growlauncher:
+
+- [x] **Auto Clear World:** High-speed block harvesting and world clearing.
+- [x] **Place & Break (PNB):** Optimized multi-tile PNB with auto-drop & delay adjustments.
+- [x] **Surgery Helper:** Automated diagnosis and tool execution for Growtopia surgery mechanics.
+- [ ] **PowerKuy Custom Utilities:** Community-requested features and auto-task management scripts *(In Active Development)*.
+
+> 📚 *Reference API Documentation:* [IniEyyy/Growlauncher-Documentation](https://github.com/IniEyyy/Growlauncher-Documentation)
+
+---
+
+## 🛠️ Main Projects & Tech Stack
+
+| Project / Platform | Role & Focus | Technologies Used | Status |
 | :--- | :--- | :--- | :--- |
-| 🧪 **Growlauncher Scripts** | Custom Lua scripts for PowerKuy (Auto PNB, Clear, Surgery, etc.) | Lua | 🟡 Active Development |
-| 🤖 **VaaaBOT** | Automated WhatsApp bot system for transactions & services | Node.js, JS | 🟢 Active |
-| 🛒 **VaaaStore Platform** | PPOB & Game Top-Up automated platform | Next.js, APIs | 🟢 Active |
+| **Growlauncher Lua Scripts** | Custom automation, Auto PNB, Surgery & Helper scripts | `Lua`, `Growlauncher API` | 🟡 Active Development |
+| **VaaaBOT Engine** | Automated WhatsApp bot system for digital products & services | `Node.js`, `JavaScript` | 🟢 Live / Active |
+| **VaaaStore Storefront** | E-commerce web platform integrated with PPOB & QRIS APIs | `Next.js`, `Tailwind CSS` | 🟢 Live / Active |
+| **Toko ESTI Web Catalog** | Local retail grocery catalog & order system | `HTML/CSS`, `GitHub Pages` | 🟢 Live / Active |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Metrics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaaaStore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="VaaaStore GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaaaStore&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## 🌐 Connect & Links
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-vaaabot.my.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaaabot.my.id)
-[![Store](https://img.shields.io/badge/Store-tokoesti.my.id-green?style=for-the-badge&logo=shoppingbag&logoColor=white)](https://tokoesti.my.id)
-
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VaaaStore&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="410" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaaaStore&layout=compact&theme=cyberpunk&hide_border=true" width="370" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaaaStore&theme=cyberpunk&hide_border=true" width="85%" />
+
+</div>
+
+---
+
+## 🌐 Connect & Official Links
+
 <div align="center">
-  <sub>Powered by VaaaStore • Focused on Automation & Development</sub>
+
+[![Growlauncher Doc Reference](https://img.shields.io/badge/Growlauncher_Docs-IniEyyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IniEyyy/Growlauncher-Documentation)
+&nbsp;
+[![Official Website](https://img.shields.io/badge/VaaaBOT-vaaabot.my.id-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vaaabot.my.id)
+&nbsp;
+[![Store Catalog](https://img.shields.io/badge/Store-tokoesti.my.id-00FF87?style=for-the-badge&logo=shoppingbag&logoColor=black)](https://tokoesti.my.id)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=VaaaStore&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
